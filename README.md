@@ -5,5 +5,5 @@ Sets up a web server with:
 - SSL Certificate
 
 # Setup
-
+Should work on a 1GB 1CPU server.
 
