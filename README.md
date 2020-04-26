@@ -7,3 +7,4 @@ Sets up a web server with:
 # Setup
 Should work on a 1GB 1CPU server.
 
+Work in progress - I am currently re-evaluating the email server part.
